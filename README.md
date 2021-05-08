@@ -1,5 +1,5 @@
 # mtg
-Simple simulation code for estimating 'fair price' of the Strixhaven Open.
+Estimating 'fair price' of the Strixhaven Open.
 https://magic.wizards.com/en/articles/archive/news/may-2021-arena-open-strixhaven-sealed-2021-04-22
 
 Assumptions:
@@ -10,3 +10,8 @@ $9.99 for 1600
 $19.99 for 3400
 ($30.00 for 5000 gems or $0.006/gem)
 4500 gem entry fee converts to $27 entry fee
+
+Estimate 'fair price' of Premier, Quick, and Traditional Limited Formats
+Assumptions:
+Units in gems
+
